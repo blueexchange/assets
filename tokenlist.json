@@ -50,7 +50,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/blueexchange/assets/master/blockchains/base-goerli/assets/0x8DD4B4ab9B4D4C5bC2Fdd15E8b42360b296d5C8A/logo.png"
-    },
+    }
   ],
   "version": {
     "major": 1,
