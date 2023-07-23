@@ -1,0 +1,60 @@
+{
+  "name": "BlueX Default Token List",
+  "keywords": [
+    "bluex",
+    "base",
+    "ethereum",
+    "erc20",
+    "layer2",
+    "dex",
+    "defi"
+  ],
+  "timestamp": "2023-07-14T15:20:13.751+03:00",
+  "tokens": [
+    {
+      "chainId": 84531,
+      "address": "0x8f48bF141f14f02aC72F24b49eF040ace906407e",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/blueexchange/assets/master/blockchains/base-goerli/assets/0x8f48bF141f14f02aC72F24b49eF040ace906407e/logo.png"
+    },
+    {
+      "chainId": 84531,
+      "address": "0xDA321De9DEDdF061B22FD5E2876fE65f8d542C8d",
+      "decimals": 6,
+      "name": "USDT",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/blueexchange/assets/master/blockchains/base-goerli/assets/0xDA321De9DEDdF061B22FD5E2876fE65f8d542C8d/logo.png"
+    },
+    {
+      "chainId": 84531,
+      "address": "0x0EFF288275F280db38FC8d4A3116E0777370A3b5",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/blueexchange/assets/master/blockchains/base-goerli/assets/0x0EFF288275F280db38FC8d4A3116E0777370A3b5/logo.png"
+    },
+    {
+      "chainId": 84531,
+      "address": "0xE033EA74d0f98696010b49E6B832F477d32C3944",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/blueexchange/assets/master/blockchains/base-goerli/assets/0xE033EA74d0f98696010b49E6B832F477d32C3944/logo.png"
+    },
+    {
+      "chainId": 84531,
+      "address": "0x8DD4B4ab9B4D4C5bC2Fdd15E8b42360b296d5C8A",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/blueexchange/assets/master/blockchains/base-goerli/assets/0x8DD4B4ab9B4D4C5bC2Fdd15E8b42360b296d5C8A/logo.png"
+    },
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
