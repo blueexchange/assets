@@ -13,11 +13,11 @@
   "tokens": [
     {
       "chainId": 84531,
-      "address": "0x8f48bF141f14f02aC72F24b49eF040ace906407e",
+      "address": "0x4200000000000000000000000000000000000006",
       "decimals": 18,
       "name": "Wrapped ETH",
       "symbol": "WETH",
-      "logoURI": "https://raw.githubusercontent.com/blueexchange/assets/master/blockchains/base-goerli/assets/0x8f48bF141f14f02aC72F24b49eF040ace906407e/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/blueexchange/assets/master/blockchains/base-goerli/assets/0x4200000000000000000000000000000000000006/logo.png"
     },
     {
       "chainId": 84531,
