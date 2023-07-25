@@ -1,5 +1,5 @@
 # Base Tokenlists
-Tokenlists for BlueX, the top 1 DEX on Base. 
+Tokenlists for SkyX, the top 1 DEX on Base. 
 
 ## HOW TO ADD YOUR LOGO
 
@@ -12,7 +12,7 @@ Submit pull request by adding your token info (check `tokenlist.json` for format
 
 
 #### Criteria
-BlueX team will continue to maintain the list for quality control. Some rough guidelines:
+SkyX team will continue to maintain the list for quality control. Some rough guidelines:
 - Contract should be verified on `basescan.org`.
 - New tokens will be accepted on case by case basis. Pls contact `BD` team via discord. 
 - Token should have established liquidity, a good number of liquidty providers, and 15 day volume. 
